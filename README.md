@@ -3,6 +3,7 @@ NLP Final Project Group 2
 
 Description
 In our project, we aim to analyze the impact of emotion of cryptocurrency market players on the price of Bitcoin using the sentiment classification abilities of transformer based natural language processing techniques. 
+
 GOALS
 Develop a dataset of Reddit comments from the r/cryptocurrency subreddit
 Fine tune a transformer model on an emotion classification dataset
