@@ -13,11 +13,10 @@ In our project, we aim to analyze the impact of emotion of cryptocurrency market
 ## Requirements
 
 There are some general library requirements for the project and some which are specific to individual methods. The general requirements are as follows.
-* 'Pandas'
-* 'Numpy'
-* 'Transformers'
-* 'Scikit-Learn'
-
-
-# Model:
-BERT MODEL
+* `pandas`
+* `numpy`
+* `seaborn`
+* `matplotlib`
+* `transformers`
+* `sklearn`
+* `pytorch`
